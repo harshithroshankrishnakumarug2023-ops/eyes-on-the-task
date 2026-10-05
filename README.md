@@ -1,6 +1,6 @@
 # Eyes on the Task: Cognitive Load, Distractors and Attention
 
-Completed group project, 2026. Department of Psychology, Ashoka University.
+Completed group project, 2025. Department of Psychology, Ashoka University.
 Supervisor: **Professor Dipanjan Ray**.
 
 **Research question.** What is the effect of task difficulty and distractor
